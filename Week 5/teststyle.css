@@ -1,0 +1,14 @@
+html, body, div {
+    border:5px dashed black;
+    margin: 0 auto
+}
+
+body {
+    width:80%;
+}
+
+div {
+    width:100px;
+    height:100px;
+    color:pink;
+}
