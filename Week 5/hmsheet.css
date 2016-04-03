@@ -1,0 +1,8 @@
+li{
+    display:inline-block;
+    text-align:center;
+    height:100px;
+    width:300px;
+    background-color:pink;
+    border:solid;
+}
